@@ -1,3 +1,3 @@
 # Google-Clone
 
-[![screen.png](https://i.postimg.cc/XNzFKT5G/screen.png)](https://postimg.cc/4npms2Bs)
+[![screen.png](https://i.postimg.cc/G2x0wW0b/screen.png)](https://postimg.cc/PpJV1Fr7)
