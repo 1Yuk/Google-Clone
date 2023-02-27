@@ -1,4 +1,4 @@
-# Google-Clone
+# PROYECTO | Google-Clone
 
 𝐏𝐚𝐠𝐞 ↦ https://1yuk.github.io/Google-Clone/
 
